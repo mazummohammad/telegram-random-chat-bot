@@ -16,6 +16,7 @@ telegram-random-chat-bot is a Telegram bot that connects strangers for anonymous
 -⚙️ Customizable — easy to extend with new features
 
 
+
 🧩 How it Works
 
 -User sends /start
